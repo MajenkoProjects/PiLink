@@ -78,5 +78,5 @@ to stop mgetty from taking over the port when it detects data on the line.  This
 The file must contain the process ID of the program using the serial port.  "megtty" will check that process ID and
 if it finds that the process isn't running it will delete the lock file.
 
-Not the "double dot" in the filename - it's not a typo.  Be sure to delete the lock file after you have finished with
+Note the "double dot" in the filename - it's not a typo.  Be sure to delete the lock file after you have finished with
 it.
