@@ -8,7 +8,7 @@ between two ports.
 The number to dial is the number of the entry for a port in an array within the program, and it responds to a subset
 of the standard Hayes AT command set.
 
-I wrote it originally for the chiipKIT™ Pi from Element14 but it should work fine on just about any Arduino
+I wrote it originally for the chipKIT™ Pi from Element14 but it should work fine on just about any Arduino
 style board since it just uses serial ports.
 
 Commands it understands:
